@@ -1,4 +1,5 @@
-[![instagram Badge](https://img.shields.io/badge/instagram-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:instagram.com/muldae.ms/)
+
+[![instagram Badge](https://img.shields.io/badge/instagram-d14836?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/muldae.ms/)](instagram.com/muldae.ms/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lunchRamen)](https://github.com/anuraghazra/github-readme-stats)
 
