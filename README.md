@@ -8,6 +8,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunchRamen&layout=compact)](https://github.com/lunchRamen)
 
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=bloom6561)](https://solved.ac/bloom6561)
+
 
 <!--
 **lunchRamen/lunchRamen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
