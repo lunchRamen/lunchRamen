@@ -5,7 +5,9 @@
 ![mySql Badge](https://img.shields.io/badge/mySql-black?style=flat-square&logo=mySql&logoColor=white&link=)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lunchRamen)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunchLamen&layout=compact)](https://github.com/lunchLamen)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunchRamen&layout=compact)](https://github.com/lunchRamen)
+
 
 <!--
 **lunchRamen/lunchRamen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
