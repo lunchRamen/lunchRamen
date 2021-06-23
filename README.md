@@ -1,5 +1,6 @@
 
 [![instagram Badge](https://img.shields.io/badge/instagram-d14836?style=flat-square&logo=instagram&logoColor=white&link=)](https://www.instagram.com/muldae.ms/)
+[![C++ Badge](https://img.shields.io/badge/C++-E4405F?style=flat-square&logo=C++&logoColor=white&link=)]
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lunchRamen)](https://github.com/anuraghazra/github-readme-stats)
 
