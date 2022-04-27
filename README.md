@@ -5,6 +5,7 @@
 ![MySQL Badge](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL&logoColor=white&link=)
 ![Django](https://img.shields.io/badge/Django-green?style=flat-square&logo=Django&logoColor=white&link=)
 ![FastAPI](https://img.shields.io/badge/FastAPI-orange?style=flat-square&logo=FastAPI&logoColor=white&link=)
+![Docker](https://img.shields.io/badge/Docker-sky?style=flat-square&logo=Docker&logoColor=white&link=)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lunchRamen)](https://github.com/anuraghazra/github-readme-stats)
 
