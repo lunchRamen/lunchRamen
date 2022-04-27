@@ -1,12 +1,13 @@
 
 [![instagram Badge](https://img.shields.io/badge/instagram-d14836?style=flat-square&logo=instagram&logoColor=white&link=)](https://www.instagram.com/muldae.ms/)
-![Python Badge](https://img.shields.io/badge/C++-E4405F?style=flat-square&logo=C++&logoColor=white&link=)
+![Python Badge](https://img.shields.io/badge/Python-E4405F?style=flat-square&logo=Python&logoColor=white&link=)
 ![JAVA Badge](https://img.shields.io/badge/JAVA-blue?style=flat-square&logo=JAVA&logoColor=white&link=)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL&logoColor=white&link=)
 ![Django](https://img.shields.io/badge/Django-green?style=flat-square&logo=Django&logoColor=white&link=)
 ![FastAPI](https://img.shields.io/badge/FastAPI-orange?style=flat-square&logo=FastAPI&logoColor=white&link=)
 ![Docker](https://img.shields.io/badge/Docker-sky?style=flat-square&logo=Docker&logoColor=white&link=)
 ![Git](https://img.shields.io/badge/Git-purple?style=flat-square&logo=Git&logoColor=white&link=)
+![Nginx](https://img.shields.io/badge/Nginx-yellow?style=flat-square&logo=Nginx&logoColor=white&link=)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lunchRamen)](https://github.com/anuraghazra/github-readme-stats)
 
