@@ -4,6 +4,7 @@
 ![JAVA Badge](https://img.shields.io/badge/JAVA-blue?style=flat-square&logo=JAVA&logoColor=white&link=)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL&logoColor=white&link=)
 ![Django](https://img.shields.io/badge/Django-green?style=flat-square&logo=Django&logoColor=white&link=)
+![FastAPI](https://img.shields.io/badge/FastAPI-orange?style=flat-square&logo=FastAPI&logoColor=white&link=)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lunchRamen)](https://github.com/anuraghazra/github-readme-stats)
 
