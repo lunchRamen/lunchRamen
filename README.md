@@ -1,5 +1,5 @@
 
-![JavaScript Badge](https://img.shields.io/badge/javascript-#F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python Badge](https://img.shields.io/badge/Python-E4405F?style=flat-square&logo=Python&logoColor=white&link=)
 ![JAVA Badge](https://img.shields.io/badge/JAVA-blue?style=flat-square&logo=JAVA&logoColor=white&link=)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL&logoColor=white&link=)
