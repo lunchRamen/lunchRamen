@@ -4,10 +4,10 @@
 ![Python Badge](https://img.shields.io/badge/Python-E4405F?style=for-the-badge&logo=Python&logoColor=white&link=)
 ![JAVA Badge](https://img.shields.io/badge/JAVA-blue?style=for-the-badge&logo=JAVA&logoColor=white&link=)
 
-![Express](https://img.shields.io/badge/express-#000000?style=for-the-badge&logo=express&logoColor=white&link=)
-![Nest](https://img.shields.io/badge/nest-#E0234E?style=for-the-badge&logo=nest&logoColor=white&link=)
+![Express](https://img.shields.io/badge/Express-#000000?style=for-the-badge&logo=Express&logoColor=white&link=)
+![Nest](https://img.shields.io/badge/NestJS-#E0234E?style=for-the-badge&logo=NestJS&logoColor=white&link=)
 ![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=white&link=)
-![Spring](https://img.shields.io/badge/spring-#6DB33F?style=for-the-badge&logo=spring&logoColor=white&link=)
+![Spring](https://img.shields.io/badge/Spring-#6DB33F?style=for-the-badge&logo=Spring&logoColor=white&link=)
 
 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=white&link=)
@@ -16,7 +16,6 @@
 ![Git](https://img.shields.io/badge/Git-purple?style=for-the-badge&logo=Git&logoColor=white&link=)
 ![Nginx](https://img.shields.io/badge/Nginx-yellow?style=for-the-badge&logo=Nginx&logoColor=white&link=)
 
-[![instagram Badge](https://img.shields.io/badge/instagram-d14836?style=flat-square&logo=instagram&logoColor=white&link=)](https://www.instagram.com/muldae.ms/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lunchRamen)](https://github.com/anuraghazra/github-readme-stats)
 
