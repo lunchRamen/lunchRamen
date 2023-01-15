@@ -1,12 +1,20 @@
 
-![JavaScript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript Badge](https://img.shields.io/badge/typescript-#3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-E4405F?style=for-the-badge&logo=Python&logoColor=white&link=)
 ![JAVA Badge](https://img.shields.io/badge/JAVA-blue?style=for-the-badge&logo=JAVA&logoColor=white&link=)
-![MySQL Badge](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=white&link=)
+
+![Express](https://img.shields.io/badge/express-#000000?style=for-the-badge&logo=express&logoColor=white&link=)
+![Nest](https://img.shields.io/badge/nest-#E0234E?style=for-the-badge&logo=nest&logoColor=white&link=)
 ![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django&logoColor=white&link=)
+![Spring](https://img.shields.io/badge/spring-#6DB33F?style=for-the-badge&logo=spring&logoColor=white&link=)
+
+
+![MySQL Badge](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=white&link=)
+
 ![Docker](https://img.shields.io/badge/Docker-sky?style=for-the-badge&logo=Docker&logoColor=white&link=)
 ![Git](https://img.shields.io/badge/Git-purple?style=for-the-badge&logo=Git&logoColor=white&link=)
-![Nginx](https://img.shields.io/badge/Nginx-yellow?style=flat-square&logo=Nginx&logoColor=white&link=)
+![Nginx](https://img.shields.io/badge/Nginx-yellow?style=for-the-badge&logo=Nginx&logoColor=white&link=)
 
 [![instagram Badge](https://img.shields.io/badge/instagram-d14836?style=flat-square&logo=instagram&logoColor=white&link=)](https://www.instagram.com/muldae.ms/)
 
